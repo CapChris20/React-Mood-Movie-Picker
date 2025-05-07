@@ -1,0 +1,365 @@
+/* ========== Body and Background Video ========== */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: black;
+  overflow-x: hidden;
+}
+#background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  z-index: -1;
+}
+
+/* ========== Home Page Styling ========== */
+
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: transparent;
+  z-index: 2;
+  position: relative;
+}
+
+.title {
+  background-color: rgb(167, 22, 167);
+  font-size: 4rem;
+  font-weight: bold;
+  background: rgb(249, 122, 249);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: rgb(128, 0, 100);
+  animation: gradientMove 5s infinite linear;
+  text-shadow: 2px 2px 4px #ff4ff7, 0 0 20px #4ffcff;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 35px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: transparent;
+  background: linear-gradient(180deg, #f6019d 0%, #2de2e6 50%, #ffffff 100%);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow:
+    2px 2px 0px #4b0082,
+    4px 4px 0px #2c003e,
+    1px 3px  20px #2de2e6,
+    5px 3px 20px #f6019d;
+  animation: shimmer 4s linear infinite;
+}
+
+.start-button {
+  background: purple;
+  border: 2px solid #ff4ff7;
+  color: #ff4ff7;
+  font-size: 1.2rem;
+  padding: 0.8rem 2rem;
+  border-radius: 12px;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+  transition: all 0.4s ease;
+  text-shadow: 0 0 6px #ff4ff7;
+  cursor: pointer;
+}
+
+.start-button:hover {
+  background-color: rgba(255, 79, 247, 0.1);
+  color: #ffffff;
+  border-color: #ffffff;
+  transform: scale(1.05);
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ========== Mood Picker Cards ========== */
+
+.container {
+  position: relative;
+  z-index: 1;
+  margin-top: 2rem;
+  width: 90%;
+  max-width: 1100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.card {
+  background-color: rgba(28, 179, 199, 0.05);
+  border: 2px solid #ff6ec7;
+  border-radius: 1rem;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 0 15px #ff6ec7;
+  transition: all 0.4s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px #ff6ec7;
+}
+
+.card-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.card-title {
+  font-size: 25px;
+  color: rgb(184, 94, 184);
+  text-align: center;
+  margin-top: 1rem;
+  text-shadow: 1px 2px 3px #ff00c3;
+}
+
+.card-button {
+  background: transparent;
+  border: 2px solid #ff6ec7;
+  color: #ff6ec7;
+  font-size: 1.1rem;
+  padding: 0.8rem 1.5rem;
+  border-radius: 10px;
+  margin-top: 1rem;
+  cursor: pointer;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+.card-button:hover {
+  background-color: rgba(255, 79, 247, 0.1);
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.movie-container, .container {
+  position: relative;
+  z-index: 1;
+  margin-top: 2rem;
+  width: 90%;
+  max-width: 1100px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.movie-card, .card {
+  background-color: rgba(90, 0, 120, 0.8);
+  border: 2px solid #ff4ff7;
+  border-radius: 1rem;
+  width: 100%;
+  min-height: 320px; /* changed from fixed height */
+  padding: 1rem 0 1.2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem; /* consistent spacing between elements */
+  box-shadow: 0 0 15px #ff4ff7;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.movie-card:hover, .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 25px #ff4ff7;
+}
+
+/* Name and Rating Text */
+.movie-name, .card-title {
+  font-size: 25px;
+  color: #d28cff; /* softer neon purple text */
+  text-align: center;
+  margin-top: 1rem;
+  text-shadow: 0 0 8px #ff4ff7;
+}
+
+.movie-rating {
+  font-size: 20px;
+  color: cyan;
+  text-align: center;
+  margin-top: 0.5rem;
+  text-shadow: 0 0 8px #ff4ff7;
+}
+
+/* Poster Images */
+.movie-card img, .card-image {
+  margin-top: 0.5rem;
+  height: 120px;
+  width: auto;
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+
+/* Learn More and MoodPicker Buttons */
+.learn, .card-button {
+  background: transparent;
+  border: 2px solid #ff4ff7;
+  color: #ff4ff7;
+  font-size: 1rem;
+  padding: 0.7rem 1.4rem;
+  border-radius: 10px;
+  margin: 1rem 0 1.5rem 0;
+  cursor: pointer;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+.learn:hover, .card-button:hover {
+  background-color: rgba(255, 79, 247, 0.2);
+  color: white;
+  border-color: white;
+}
+
+.movie-shuffle{
+  background: purple;
+  border: 2px solid #ff4ff7;
+  color: #ff4ff7;
+  font-size: 1rem;
+  padding: 0.7rem 1.4rem;
+  border-radius: 10px;
+  margin: 1rem 0 1.5rem 0;
+  cursor: pointer;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 992px) {
+  .movie-container, .container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .movie-container, .container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ✅ Final verified layout for MovieList */
+
+.movie-container {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.movie-card-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3rem !important;
+  justify-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem !important;
+}
+
+@media (max-width: 992px) {
+  .movie-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .movie-card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.movie-card {
+  width: 115%;
+  min-height: 260px !important;
+  padding: 2rem !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+/* Movie release date styling */
+.movie-release-date {
+  font-size: 22px;
+  color: #d28cff;
+  margin-top: 0.5rem;
+  text-align: center;
+  text-shadow: 0 0 8px #ff4ff7;
+}
+
+/* Override Poster Image Size */
+.movie-card img {
+  width: 100%;
+  height: auto;
+  max-height: 350px;
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+
+/* Additional spacing for movie list layout */
+.movie-card-grid {
+  row-gap: 3rem;
+  column-gap: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.movie-card {
+  padding: 1.5rem;
+}
+
+.movie-top-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.back-home-button {
+  background: purple;
+  border: 2px solid #ff4ff7;
+  color: #ff4ff7;
+  font-size: 1rem;
+  padding: 0.7rem 1.4rem;
+  border-radius: 10px;
+  margin: 1rem 0 1.5rem 0;
+  cursor: pointer;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+.back-home-button:hover {
+  background-color: rgba(255, 79, 247, 0.2);
+  color: white;
+  border-color: white;
+}

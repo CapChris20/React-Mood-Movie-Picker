@@ -1,0 +1,2016 @@
+[
+  1,
+  [
+    {
+      "adult": false,
+      "backdrop_path": "/6GGsUgmef5MIfJnnp2fGvkFWRg6.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1059073,
+      "original_language": "en",
+      "original_title": "Winter Spring Summer or Fall",
+      "overview": "Remi and Barnes, two very different teenagers, meet by chance in the winter of their senior year, then spend four  days together over the course of a year that will change their lives forever.",
+      "popularity": 79.2321,
+      "poster_path": "/mEPi5ISa5RmzpzeDfwkhX0CcNsf.jpg",
+      "release_date": "2024-12-27",
+      "title": "Winter Spring Summer or Fall",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kQ35sVT8EBlsX9yilHi1zP4jd3l.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1226572,
+      "original_language": "hi",
+      "original_title": "सुपरबॉय्ज़ ऑफ मालेगाँव",
+      "overview": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
+      "popularity": 62.8221,
+      "poster_path": "/l5PDjfWpC9uY5HdF5cbsJ4wjqoq.jpg",
+      "release_date": "2025-02-28",
+      "title": "Superboys of Malegaon",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1086548,
+      "original_language": "es",
+      "original_title": "Vera y el placer de los otros",
+      "overview": "17-year-old Vera divides her days between volleyball and school and has a good time with friends like an average teenager. She appears to be a perfect daughter who never gets into trouble. But she has a secret hobby: she anonymously rents out an empty apartment to teenagers looking for a place to have sex. She steals the keys from her distracted mother (who manages different properties) and organizes everything. The teenagers come and go, using the apartment for a few uninterrupted hours making Vera the saviour of all their needs. With that she unlocks a new world for herself – playing invisible, Vera stays behind the closed door; her own sexual desires unfolding as she listens to other people’s pleasure.",
+      "popularity": 62.2597,
+      "poster_path": "/e0ESGyso9K95glbbnTRenFfCC7l.jpg",
+      "release_date": "2024-09-26",
+      "title": "Vera and the Pleasure of Others",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 2108,
+      "original_language": "en",
+      "original_title": "The Breakfast Club",
+      "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+      "popularity": 60.9278,
+      "poster_path": "/wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+      "release_date": "1985-02-15",
+      "title": "The Breakfast Club",
+      "video": false,
+      "vote_average": 7.734,
+      "vote_count": 8128
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 1064486,
+      "original_language": "en",
+      "original_title": "Memoir of a Snail",
+      "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+      "popularity": 60.8631,
+      "poster_path": "/57AgZv1ITeBLShiNdchZ5153evs.jpg",
+      "release_date": "2024-10-17",
+      "title": "Memoir of a Snail",
+      "video": false,
+      "vote_average": 7.986,
+      "vote_count": 443
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/87GU2ifjNYtgYtcRH1NNH1P4ODo.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 1064213,
+      "original_language": "en",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "popularity": 40.9013,
+      "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+      "release_date": "2024-10-14",
+      "title": "Anora",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 2087
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4ybnt8HD4slaCykBXNZwZaLd5LQ.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1254786,
+      "original_language": "en",
+      "original_title": "The Life List",
+      "overview": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+      "popularity": 32.3314,
+      "poster_path": "/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+      "release_date": "2025-03-27",
+      "title": "The Life List",
+      "video": false,
+      "vote_average": 6.833,
+      "vote_count": 329
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "popularity": 28.5778,
+      "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "release_date": "2019-05-30",
+      "title": "Parasite",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 18988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h6g3bziXf9D9ieZlik0bwB56sjk.jpg",
+      "genre_ids": [
+        80,
+        53,
+        35,
+        18
+      ],
+      "id": 11826,
+      "original_language": "en",
+      "original_title": "Sexy Beast",
+      "overview": "Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.",
+      "popularity": 26.8118,
+      "poster_path": "/9OlmWIEuSec27HiOPuMJASnff6f.jpg",
+      "release_date": "2000-09-13",
+      "title": "Sexy Beast",
+      "video": false,
+      "vote_average": 6.986,
+      "vote_count": 806
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "popularity": 26.8034,
+      "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "release_date": "1994-06-23",
+      "title": "Forrest Gump",
+      "video": false,
+      "vote_average": 8.468,
+      "vote_count": 28146
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        18,
+        35
+      ],
+      "id": 150540,
+      "original_language": "en",
+      "original_title": "Inside Out",
+      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+      "popularity": 25.5543,
+      "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "release_date": "2015-06-17",
+      "title": "Inside Out",
+      "video": false,
+      "vote_average": 7.91,
+      "vote_count": 22451
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 615777,
+      "original_language": "en",
+      "original_title": "Babylon",
+      "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+      "popularity": 24.1616,
+      "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "release_date": "2022-12-22",
+      "title": "Babylon",
+      "video": false,
+      "vote_average": 7.374,
+      "vote_count": 3327
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+      "genre_ids": [
+        35,
+        18,
+        36,
+        12
+      ],
+      "id": 319888,
+      "original_language": "en",
+      "original_title": "Eddie the Eagle",
+      "overview": "The feel-good story of Michael 'Eddie' Edwards, an unlikely but courageous British ski-jumper who never stopped believing in himself—even as an entire nation was counting him out. With the help of a rebellious and charismatic coach, Eddie takes on the establishment and wins the hearts of sports fans around the world by making an improbable and historic showing at the 1988 Calgary Winter Olympics.",
+      "popularity": 23.9909,
+      "poster_path": "/r562gvTRVHnDSvG7MrKHEECSn1V.jpg",
+      "release_date": "2016-02-25",
+      "title": "Eddie the Eagle",
+      "video": false,
+      "vote_average": 7.169,
+      "vote_count": 2158
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
+      "genre_ids": [
+        80,
+        18,
+        35
+      ],
+      "id": 106646,
+      "original_language": "en",
+      "original_title": "The Wolf of Wall Street",
+      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "popularity": 23.714,
+      "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "release_date": "2013-12-25",
+      "title": "The Wolf of Wall Street",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 24553
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1hdorswm5HPxb81xq84H9gqveUq.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 371638,
+      "original_language": "en",
+      "original_title": "The Disaster Artist",
+      "overview": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+      "popularity": 23.468,
+      "poster_path": "/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg",
+      "release_date": "2017-03-12",
+      "title": "The Disaster Artist",
+      "video": false,
+      "vote_average": 7.107,
+      "vote_count": 3573
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 37165,
+      "original_language": "en",
+      "original_title": "The Truman Show",
+      "overview": "Every second of every day, from the moment he was born, for the last thirty years, Truman Burbank has been the unwitting star of the longest running, most popular documentary-soap opera in history. The picture-perfect town of Seahaven that he calls home is actually a gigantic soundstage. Truman's friends and family - everyone he meets, in fact - are actors. He lives every moment under the unblinking gaze of thousands of hidden TV cameras.",
+      "popularity": 23.2053,
+      "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "release_date": "1998-06-04",
+      "title": "The Truman Show",
+      "video": false,
+      "vote_average": 8.147,
+      "vote_count": 18834
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+      "genre_ids": [
+        28,
+        35,
+        18,
+        10749
+      ],
+      "id": 746036,
+      "original_language": "en",
+      "original_title": "The Fall Guy",
+      "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+      "popularity": 23.0498,
+      "poster_path": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "release_date": "2024-04-24",
+      "title": "The Fall Guy",
+      "video": false,
+      "vote_average": 7.024,
+      "vote_count": 2939
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 843527,
+      "original_language": "en",
+      "original_title": "The Idea of You",
+      "overview": "40-year-old single mom Solène begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Solène soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+      "popularity": 22.4376,
+      "poster_path": "/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+      "release_date": "2024-05-02",
+      "title": "The Idea of You",
+      "video": false,
+      "vote_average": 7.387,
+      "vote_count": 1664
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+      "genre_ids": [
+        35,
+        18,
+        53
+      ],
+      "id": 466272,
+      "original_language": "en",
+      "original_title": "Once Upon a Time... in Hollywood",
+      "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+      "popularity": 22.1728,
+      "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "release_date": "2019-07-24",
+      "title": "Once Upon a Time... in Hollywood",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 13840
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1272149,
+      "original_language": "en",
+      "original_title": "Bridget Jones: Mad About the Boy",
+      "overview": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+      "popularity": 20.6992,
+      "poster_path": "/taEVBdVSqYo9YeN3ycw2SosklZL.jpg",
+      "release_date": "2025-02-12",
+      "title": "Bridget Jones: Mad About the Boy",
+      "video": false,
+      "vote_average": 6.71,
+      "vote_count": 298
+    }
+  ],
+  1624,
+  32470,
+  2,
+  [
+    {
+      "adult": false,
+      "backdrop_path": "/5MyjGUa2piiEyNH4UcLp3YV9cwo.jpg",
+      "genre_ids": [
+        28,
+        18,
+        35
+      ],
+      "id": 504056,
+      "original_language": "zh",
+      "original_title": "大师兄",
+      "overview": "A soldier-turned-high school teacher uses unusual methods to reach to a class of poor students, while dealing with a greedy entrepreneur and his gang of fighters as well as the government.",
+      "popularity": 16.5458,
+      "poster_path": "/z6Y6uQn2fORr7o43EggQrTsp08o.jpg",
+      "release_date": "2018-08-16",
+      "title": "Big Brother",
+      "video": false,
+      "vote_average": 7.391,
+      "vote_count": 175
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 4951,
+      "original_language": "en",
+      "original_title": "10 Things I Hate About You",
+      "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+      "popularity": 19.2169,
+      "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "release_date": "1999-03-30",
+      "title": "10 Things I Hate About You",
+      "video": false,
+      "vote_average": 7.594,
+      "vote_count": 8338
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nGC3ZkXEcjGbqAAonS1xn6gaNpb.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1013850,
+      "original_language": "en",
+      "original_title": "A Real Pain",
+      "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
+      "popularity": 18.1803,
+      "poster_path": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+      "release_date": "2024-11-01",
+      "title": "A Real Pain",
+      "video": false,
+      "vote_average": 6.779,
+      "vote_count": 911
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9oI4ImMclu3l0OHaK7o9eELfL3l.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 375785,
+      "original_language": "en",
+      "original_title": "Then Came You",
+      "overview": "An American hypochondriac who is working as a baggage handler is forced to confront his fears when a British teenager with a terminal illness enlists him to help her carry out her eccentric bucket list.",
+      "popularity": 25.4856,
+      "poster_path": "/658QP5tmBRUlE5JvxOnnmITfG1F.jpg",
+      "release_date": "2018-12-05",
+      "title": "Then Came You",
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 503
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kykbRX41oIpBpqNEqAC0yNAPHh1.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 87428,
+      "original_language": "en",
+      "original_title": "That's My Boy",
+      "overview": "While in his teens, Donny fathered a son, Todd, and raised him as a single parent up until Todd's 18th birthday. Now, after not seeing each other for years, Todd's world comes crashing down when Donny resurfaces just before Todd's wedding.",
+      "popularity": 16.9843,
+      "poster_path": "/wRpDLQWQgKaos1ZG7XPaUttGwhD.jpg",
+      "release_date": "2012-06-14",
+      "title": "That's My Boy",
+      "video": false,
+      "vote_average": 5.831,
+      "vote_count": 2003
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2YJOXPl4QtCskixYA58ToyCXEW0.jpg",
+      "genre_ids": [
+        28,
+        35,
+        18,
+        53
+      ],
+      "id": 787,
+      "original_language": "en",
+      "original_title": "Mr. & Mrs. Smith",
+      "overview": "After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they're each other's next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.",
+      "popularity": 16.8199,
+      "poster_path": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+      "release_date": "2005-06-07",
+      "title": "Mr. & Mrs. Smith",
+      "video": false,
+      "vote_average": 6.689,
+      "vote_count": 10602
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9ZznETDyfPWVugRiv0jfGrkRftw.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 937278,
+      "original_language": "en",
+      "original_title": "A Man Called Otto",
+      "overview": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
+      "popularity": 17.9773,
+      "poster_path": "/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+      "release_date": "2022-12-28",
+      "title": "A Man Called Otto",
+      "video": false,
+      "vote_average": 7.756,
+      "vote_count": 3080
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 818647,
+      "original_language": "es",
+      "original_title": "A través de mi ventana",
+      "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+      "popularity": 17.1845,
+      "poster_path": "/jmkpZvMVIRrMFevxzOubSBfG0s0.jpg",
+      "release_date": "2022-02-04",
+      "title": "Through My Window",
+      "video": false,
+      "vote_average": 7.367,
+      "vote_count": 3221
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 10625,
+      "original_language": "en",
+      "original_title": "Mean Girls",
+      "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+      "popularity": 17.147,
+      "poster_path": "/alKvY5LuVcXraRBfi5UtVV8Ii6Y.jpg",
+      "release_date": "2004-04-30",
+      "title": "Mean Girls",
+      "video": false,
+      "vote_average": 7.217,
+      "vote_count": 8979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 637,
+      "original_language": "it",
+      "original_title": "La vita è bella",
+      "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+      "popularity": 16.9652,
+      "poster_path": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+      "release_date": "1997-12-20",
+      "title": "Life Is Beautiful",
+      "video": false,
+      "vote_average": 8.449,
+      "vote_count": 13326
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oDTHNGAH1gZwNk45do1rOoU3oxN.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 77338,
+      "original_language": "fr",
+      "original_title": "Intouchables",
+      "overview": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
+      "popularity": 16.5861,
+      "poster_path": "/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
+      "release_date": "2011-11-02",
+      "title": "The Intouchables",
+      "video": false,
+      "vote_average": 8.272,
+      "vote_count": 17570
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iPHsjvbFyGbeCEDC7u8Ib8U1zS6.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 947891,
+      "original_language": "en",
+      "original_title": "My Old Ass",
+      "overview": "An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self. But when Elliott’s \"old ass\" starts handing out warnings about what her younger self should and shouldn't do, Elliott realizes she has to rethink everything about family, love, and what's becoming a transformative summer.",
+      "popularity": 18.2217,
+      "poster_path": "/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg",
+      "release_date": "2024-09-13",
+      "title": "My Old Ass",
+      "video": false,
+      "vote_average": 6.874,
+      "vote_count": 293
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749,
+        10402
+      ],
+      "id": 313369,
+      "original_language": "en",
+      "original_title": "La La Land",
+      "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "popularity": 15.4509,
+      "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "release_date": "2016-12-01",
+      "title": "La La Land",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 17250
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sTgavNm82pTaZR9U2NQZ1J2FrJz.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "id": 788,
+      "original_language": "en",
+      "original_title": "Mrs. Doubtfire",
+      "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
+      "popularity": 14.65,
+      "poster_path": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+      "release_date": "1993-11-24",
+      "title": "Mrs. Doubtfire",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 6238
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4OjoH07cxYQbnGiJzJxto0NUejH.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 843847,
+      "original_language": "en",
+      "original_title": "Jerry & Marge Go Large",
+      "overview": "The remarkable true story of how retiree Jerry Selbee discovers a mathematical loophole in the Massachusetts lottery and, with the help of his wife, Marge, wins $27 million dollars and uses the money to revive their small Michigan town.",
+      "popularity": 13.0963,
+      "poster_path": "/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg",
+      "release_date": "2022-10-20",
+      "title": "Jerry & Marge Go Large",
+      "video": false,
+      "vote_average": 7.35,
+      "vote_count": 377
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t0r9itlHq0s5wylodu8pjlOlB99.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 4564,
+      "original_language": "en",
+      "original_title": "Sex and the City",
+      "overview": "A New York writer on sex and love is finally getting married to her Mr. Big. But her three best girlfriends must console her after one of them inadvertently leads Mr. Big to jilt her.",
+      "popularity": 13.4626,
+      "poster_path": "/AhNfnsGW95RKHQNLdgFH48UN0Zy.jpg",
+      "release_date": "2008-05-12",
+      "title": "Sex and the City",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 2149
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9GeuSS66C0xcX1En4uKYgxWCGrS.jpg",
+      "genre_ids": [
+        18,
+        35,
+        80
+      ],
+      "id": 9291,
+      "original_language": "en",
+      "original_title": "The Longest Yard",
+      "overview": "Disgraced pro football quarterback Paul Crewe lands in a Texas federal penitentiary, where manipulative Warden Hazen recruits him to advise the institution's football team of prison guards. Crewe suggests a tune-up game which lands him quarterbacking a crew of inmates in a game against the guards. Aided by incarcerated ex-NFL coach and player Nate Scarborough, Crewe and his team must overcome not only the bloodthirstiness of the opposition, but also the corrupt warden trying to fix the game against them.",
+      "popularity": 13.6767,
+      "poster_path": "/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+      "release_date": "2005-05-27",
+      "title": "The Longest Yard",
+      "video": false,
+      "vote_average": 6.665,
+      "vote_count": 3457
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dA9kpV4709TrVutnZ7OZTLDySSA.jpg",
+      "genre_ids": [
+        27,
+        35,
+        18
+      ],
+      "id": 1280832,
+      "original_language": "zh",
+      "original_title": "流氓驱魔师",
+      "overview": "A tale of forbidden love that defies the limitations of existence.",
+      "popularity": 15.0512,
+      "poster_path": "/oTjpO5tOyOKJS0aqXtuY4xkW5p.jpg",
+      "release_date": "2024-05-30",
+      "title": "The Chosen One",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 50646,
+      "original_language": "en",
+      "original_title": "Crazy, Stupid, Love.",
+      "overview": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.",
+      "popularity": 13.8292,
+      "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+      "release_date": "2011-07-29",
+      "title": "Crazy, Stupid, Love.",
+      "video": false,
+      "vote_average": 7.265,
+      "vote_count": 8718
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rc2qafmeLUXWU2Jj7dyWP4TpSSL.jpg",
+      "genre_ids": [
+        18,
+        35,
+        14
+      ],
+      "id": 960139,
+      "original_language": "fr",
+      "original_title": "La Maison",
+      "overview": "Emma, a French novelist aged 27, decide to go to Berlin and join a brothel to uncover the prostitution world, the subject of her new book. Such as gonzo journalism, Emma become a prostitute and her experience, which was supposed to last a few weeks, will last two years. Was writing her book an excuse for Emma to live a shameful fantasy?",
+      "popularity": 14.1544,
+      "poster_path": "/zz6h2hfQ692jeeEkzfgFceyd50Y.jpg",
+      "release_date": "2022-11-16",
+      "title": "The House",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 96
+    }
+  ],
+  1624,
+  32472,
+  3,
+  [
+    {
+      "adult": false,
+      "backdrop_path": "/dfGJKPaxabWaXacJ2fw6zXgA9QX.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 594,
+      "original_language": "en",
+      "original_title": "The Terminal",
+      "overview": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+      "popularity": 13.1221,
+      "poster_path": "/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg",
+      "release_date": "2004-06-17",
+      "title": "The Terminal",
+      "video": false,
+      "vote_average": 7.347,
+      "vote_count": 8084
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/smK3ud9IKSLVuRXdKauJ9p0DwNB.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 2322,
+      "original_language": "en",
+      "original_title": "Sneakers",
+      "overview": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers.",
+      "popularity": 13.1802,
+      "poster_path": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+      "release_date": "1992-09-09",
+      "title": "Sneakers",
+      "video": false,
+      "vote_average": 6.909,
+      "vote_count": 941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 350,
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada",
+      "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
+      "popularity": 13.5128,
+      "poster_path": "/OfFMqWQDZ4SlLtHiofyRoLjXdX.jpg",
+      "release_date": "2006-06-29",
+      "title": "The Devil Wears Prada",
+      "video": false,
+      "vote_average": 7.392,
+      "vote_count": 12279
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+      "genre_ids": [
+        35,
+        878,
+        18
+      ],
+      "id": 646380,
+      "original_language": "en",
+      "original_title": "Don't Look Up",
+      "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+      "popularity": 13.4081,
+      "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "release_date": "2021-12-08",
+      "title": "Don't Look Up",
+      "video": false,
+      "vote_average": 7.072,
+      "vote_count": 8560
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/obiRaOMHKnRai2edJG8cIHK6qkR.jpg",
+      "genre_ids": [
+        18,
+        35,
+        53
+      ],
+      "id": 930564,
+      "original_language": "en",
+      "original_title": "Saltburn",
+      "overview": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+      "popularity": 14.7433,
+      "poster_path": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "release_date": "2023-11-16",
+      "title": "Saltburn",
+      "video": false,
+      "vote_average": 6.984,
+      "vote_count": 2501
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xadx0B4m98VAkYDoDQEq0Xg5g0A.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 186622,
+      "original_language": "fr",
+      "original_title": "Ainsi soient-elles",
+      "overview": "Every Sunday, Mary, Alice and Joan, three long-time friends, find themselves at the pool to talk about their love affairs. Mary, who is a stockbroker, leads her love life with meetings. One night she is raped by Franck in a nightclub toilet. The young woman then discovers she is pregnant. Alice, a student dominated by an authoritarian father, she has difficult relationship with men. She meets a painter who wants to make her his model. Jeanne lives a dreary relationship with her husband and decides to work and earn a living through prostitution.",
+      "popularity": 12.5168,
+      "poster_path": "/ud7IhFWeyj1QB8QLljp2K73mNBL.jpg",
+      "release_date": "1995-01-25",
+      "title": "Women",
+      "video": false,
+      "vote_average": 4.333,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yvunjjIArbzlgjmIQaouuGAP6jB.jpg",
+      "genre_ids": [
+        12,
+        35,
+        18,
+        14
+      ],
+      "id": 116745,
+      "original_language": "en",
+      "original_title": "The Secret Life of Walter Mitty",
+      "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+      "popularity": 13.3872,
+      "poster_path": "/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+      "release_date": "2013-12-18",
+      "title": "The Secret Life of Walter Mitty",
+      "video": false,
+      "vote_average": 7.196,
+      "vote_count": 7763
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/imvV078HyWsa9jgDVLi4APgskrJ.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 634,
+      "original_language": "en",
+      "original_title": "Bridget Jones's Diary",
+      "overview": "Bridget Jones is an average woman struggling against her age, her weight, her job, her lack of a man, and her various imperfections. As a New Year's resolution, Bridget decides to take control of her life, starting by keeping a diary in which she will always tell the complete truth. The fireworks begin when her charming though disreputable boss takes an interest in the quirky Miss Jones. Thrown into the mix are Bridget's band of slightly eccentric friends and a rather disagreeable acquaintance into whom Bridget cannot seem to stop running or help finding quietly attractive.",
+      "popularity": 12.5427,
+      "poster_path": "/dkauRl9TosBFikftrC3OVcKWDoz.jpg",
+      "release_date": "2001-04-13",
+      "title": "Bridget Jones's Diary",
+      "video": false,
+      "vote_average": 6.747,
+      "vote_count": 5195
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e0zR3H15Gl32hLqrY5lB205RWbo.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14
+      ],
+      "id": 9339,
+      "original_language": "en",
+      "original_title": "Click",
+      "overview": "A married workaholic, Michael Newman doesn't have time for his wife and children, not if he's to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life's little distractions with increasingly hysterical results.",
+      "popularity": 12.4152,
+      "poster_path": "/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg",
+      "release_date": "2006-06-23",
+      "title": "Click",
+      "video": false,
+      "vote_average": 6.292,
+      "vote_count": 7146
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dExUxMWt0UjS93waeCGYeDr1D7m.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 747188,
+      "original_language": "en",
+      "original_title": "Asteroid City",
+      "overview": "In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events.",
+      "popularity": 11.0967,
+      "poster_path": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "release_date": "2023-06-08",
+      "title": "Asteroid City",
+      "video": false,
+      "vote_average": 6.46,
+      "vote_count": 2076
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dTOQaHP4PjDXU2JwDF6UYqGqRT0.jpg",
+      "genre_ids": [
+        36,
+        35,
+        18
+      ],
+      "id": 792293,
+      "original_language": "en",
+      "original_title": "Dumb Money",
+      "overview": "Vlogger Keith Gill sinks his life savings into GameStop stock and posts about it. When social media starts blowing up, so do his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich—until the billionaires fight back, and both sides find their worlds turned upside down.",
+      "popularity": 11.6017,
+      "poster_path": "/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg",
+      "release_date": "2023-09-15",
+      "title": "Dumb Money",
+      "video": false,
+      "vote_average": 6.693,
+      "vote_count": 637
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fGBJEfGjHmhg7nLAT0Jkcv9qV5e.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 43347,
+      "original_language": "en",
+      "original_title": "Love & Other Drugs",
+      "overview": "Maggie is an alluring free spirit who won't let anyone – or anything – tie her down. But she meets her match in Jamie, whose relentless and nearly infallible charm serves him well with the ladies and the cutthroat world of pharmaceutical sales. Maggie and Jamie's evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.",
+      "popularity": 12.7761,
+      "poster_path": "/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+      "release_date": "2010-11-04",
+      "title": "Love & Other Drugs",
+      "video": false,
+      "vote_average": 7.046,
+      "vote_count": 5234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AwkaTlvHAc5qQksrXg982CWMkYJ.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 16643,
+      "original_language": "en",
+      "original_title": "Life or Something Like It",
+      "overview": "A reporter Lanie Kerrigan interviews a psychic homeless man for a fluff piece about a football game's score. Instead he tells her that her life has no meaning and is going to end in just a few days, which sparks her to action, trying to change the pattern of her life...",
+      "popularity": 11.9959,
+      "poster_path": "/b9lUSfCjv8jjNRSsmk65HEV1Pv3.jpg",
+      "release_date": "2002-04-24",
+      "title": "Life or Something Like It",
+      "video": false,
+      "vote_average": 5.674,
+      "vote_count": 521
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 18240,
+      "original_language": "en",
+      "original_title": "The Proposal",
+      "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+      "popularity": 11.778,
+      "poster_path": "/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg",
+      "release_date": "2009-06-02",
+      "title": "The Proposal",
+      "video": false,
+      "vote_average": 7.153,
+      "vote_count": 7035
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 416477,
+      "original_language": "en",
+      "original_title": "The Big Sick",
+      "overview": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+      "popularity": 11.8124,
+      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "release_date": "2017-03-30",
+      "title": "The Big Sick",
+      "video": false,
+      "vote_average": 7.333,
+      "vote_count": 2476
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/92Ppi99LkZFHUgpxwYRxcKZVZNH.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 82693,
+      "original_language": "en",
+      "original_title": "Silver Linings Playbook",
+      "overview": "After losing his job and wife, and spending time in a institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets a woman, who offers to help him reconnect with his wife, if he will do something very important for her in exchange.",
+      "popularity": 11.7253,
+      "poster_path": "/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "release_date": "2012-11-16",
+      "title": "Silver Linings Playbook",
+      "video": false,
+      "vote_average": 7.145,
+      "vote_count": 12137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iWzu3dVJGNfQUkLfK9xpTWoi5mh.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 1139566,
+      "original_language": "es",
+      "original_title": "A través de mi ventana 3: A través de tu mirada",
+      "overview": "After the events of the summer, Ares and Raquel they don't see a way forward in their relationship and decide to go separate ways. But when they meet again in the winter in Barcelona, the love and desire they feel for each other is undeniable. Will they be able to find a way to get back together?",
+      "popularity": 11.0112,
+      "poster_path": "/gwpTgtwVAwmvivBN8rAQABpx9Am.jpg",
+      "release_date": "2024-02-23",
+      "title": "Through My Window 3: Looking at You",
+      "video": false,
+      "vote_average": 6.935,
+      "vote_count": 614
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
+      "genre_ids": [
+        14,
+        35,
+        12,
+        18
+      ],
+      "id": 779782,
+      "original_language": "en",
+      "original_title": "The School for Good and Evil",
+      "overview": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.",
+      "popularity": 11.9053,
+      "poster_path": "/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",
+      "release_date": "2022-10-19",
+      "title": "The School for Good and Evil",
+      "video": false,
+      "vote_average": 7.049,
+      "vote_count": 1286
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+      "genre_ids": [
+        12,
+        35,
+        14,
+        10751,
+        18
+      ],
+      "id": 381289,
+      "original_language": "en",
+      "original_title": "A Dog's Purpose",
+      "overview": "A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.",
+      "popularity": 11.5317,
+      "poster_path": "/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+      "release_date": "2017-01-19",
+      "title": "A Dog's Purpose",
+      "video": false,
+      "vote_average": 7.636,
+      "vote_count": 3375
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19913,
+      "original_language": "en",
+      "original_title": "(500) Days of Summer",
+      "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+      "popularity": 11.1854,
+      "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+      "release_date": "2009-07-17",
+      "title": "(500) Days of Summer",
+      "video": false,
+      "vote_average": 7.295,
+      "vote_count": 10386
+    }
+  ],
+  1624,
+  32472,
+  4,
+  [
+    {
+      "adult": false,
+      "backdrop_path": "/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 8488,
+      "original_language": "en",
+      "original_title": "Hitch",
+      "overview": "Dating coach Alex 'Hitch' Hitchens mentors a bumbling client, Albert, who hopes to win the heart of the glamorous Allegra Cole. While Albert makes progress, Hitch faces his own romantic setbacks when proven techniques fail to work on Sara Melas, a tabloid reporter digging for dirt on Allegra Cole's love life. When Sara discovers Hitch's connection to Albert – now Allegra's boyfriend – it threatens to destroy both relationships.",
+      "popularity": 10.2142,
+      "poster_path": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+      "release_date": "2005-02-11",
+      "title": "Hitch",
+      "video": false,
+      "vote_average": 6.566,
+      "vote_count": 5886
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yhV2Cs7N8RrchaUSXLA2zkFHKcz.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1238200,
+      "original_language": "es",
+      "original_title": "Sin instrucciones",
+      "overview": "Leo is a single, womanizing guy who lives day to day in a tiny beach town in the Canary Islands. One day one of his old flings, Julia, reappears to leave a baby of a few months in his arms and she disappears at the next morning.",
+      "popularity": 11.491,
+      "poster_path": "/2Lq2meSVsGvfFOh89iWTcA76wST.jpg",
+      "release_date": "2024-12-25",
+      "title": "Babies Don't Come with Instructions",
+      "video": false,
+      "vote_average": 6.821,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lavWAUXVe7vHlKhZEGmfVLaVd4S.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 4964,
+      "original_language": "en",
+      "original_title": "Knocked Up",
+      "overview": "A slacker and a career-driven woman accidentally conceive a child after a one-night stand. As they try to make the relationship work, they must navigate the challenges of parenthood and their differences in lifestyle and maturity.",
+      "popularity": 10.3243,
+      "poster_path": "/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
+      "release_date": "2007-06-01",
+      "title": "Knocked Up",
+      "video": false,
+      "vote_average": 6.29,
+      "vote_count": 4034
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aeksAhU6dZl0Fclm3dBRt6cKBmD.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 942922,
+      "original_language": "en",
+      "original_title": "80 for Brady",
+      "overview": "Four lifelong friends set out on an unforgettable journey to see their hero Tom Brady play in Super Bowl LI and witness one of the greatest comebacks in sports history, discovering that it's never too late to live life to the fullest. Inspired by a true story.",
+      "popularity": 10.0665,
+      "poster_path": "/qhSFHOS9CeXTqGgmbCi5pteIc6k.jpg",
+      "release_date": "2023-02-03",
+      "title": "80 for Brady",
+      "video": false,
+      "vote_average": 6.331,
+      "vote_count": 169
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 508,
+      "original_language": "en",
+      "original_title": "Love Actually",
+      "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+      "popularity": 10.8314,
+      "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+      "release_date": "2003-09-07",
+      "title": "Love Actually",
+      "video": false,
+      "vote_average": 7.107,
+      "vote_count": 6941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 9475,
+      "original_language": "en",
+      "original_title": "Scent of a Woman",
+      "overview": "Charlie Simms is a student at a private preparatory school who comes from a poor family. To earn the money for his flight home to Gresham, Oregon for Christmas, Charlie takes a job over Thanksgiving looking after retired U.S. Army officer Lieutenant Colonel Frank Slade, a cantankerous middle-aged man who lives with his niece and her family.",
+      "popularity": 10.8876,
+      "poster_path": "/4adI7IaveWb7EidYXfLb3MK3CgO.jpg",
+      "release_date": "1992-12-23",
+      "title": "Scent of a Woman",
+      "video": false,
+      "vote_average": 7.79,
+      "vote_count": 3556
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 120467,
+      "original_language": "en",
+      "original_title": "The Grand Budapest Hotel",
+      "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+      "popularity": 10.412,
+      "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+      "release_date": "2014-02-26",
+      "title": "The Grand Budapest Hotel",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 15124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 491418,
+      "original_language": "en",
+      "original_title": "Instant Family",
+      "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+      "popularity": 10.7833,
+      "poster_path": "/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+      "release_date": "2018-11-13",
+      "title": "Instant Family",
+      "video": false,
+      "vote_average": 7.514,
+      "vote_count": 3025
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bYk4H2MSvNWckhrYhZNQHe8v90o.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751,
+        10749
+      ],
+      "id": 21542,
+      "original_language": "en",
+      "original_title": "Love Don't Co$t a Thing",
+      "overview": "A high school outcast pays a cheerleader to pose as his girlfriend so he can be considered cool.",
+      "popularity": 10.6792,
+      "poster_path": "/88zspc72LIkfiuMnGpHnsWCuqEH.jpg",
+      "release_date": "2003-12-12",
+      "title": "Love Don't Co$t a Thing",
+      "video": false,
+      "vote_average": 7.504,
+      "vote_count": 579
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ttiCab2MEJljWMIWBoON7IZNIup.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 1278827,
+      "original_language": "en",
+      "original_title": "The Wedding Banquet",
+      "overview": "Frustrated with his commitment-phobic boyfriend Chris and running out of time, Min makes a proposal: a green-card marriage with their friend Angela in exchange for her partner Lee's expensive IVF. Elopement plans are upended, however, when Min's grandmother surprises them with an extravagant Korean wedding banquet.",
+      "popularity": 9.7409,
+      "poster_path": "/1ofqO5AmjOeKvgPjSqNrJ9yVuT.jpg",
+      "release_date": "2025-04-18",
+      "title": "The Wedding Banquet",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ct2I74zKDrK1Ts2jJa9WixJrigg.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 440472,
+      "original_language": "en",
+      "original_title": "The Upside",
+      "overview": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
+      "popularity": 10.3954,
+      "poster_path": "/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+      "release_date": "2019-01-10",
+      "title": "The Upside",
+      "video": false,
+      "vote_average": 7.143,
+      "vote_count": 1305
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90kmxuSwU28dVy1ghVSHI4x1wb8.jpg",
+      "genre_ids": [
+        37,
+        35,
+        18,
+        10402,
+        9648,
+        10749
+      ],
+      "id": 537996,
+      "original_language": "en",
+      "original_title": "The Ballad of Buster Scruggs",
+      "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+      "popularity": 10.4349,
+      "poster_path": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "release_date": "2018-11-09",
+      "title": "The Ballad of Buster Scruggs",
+      "video": false,
+      "vote_average": 7.137,
+      "vote_count": 4127
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v0pIWEfpFXNgdbZIjPKuIg7yRfB.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 712,
+      "original_language": "en",
+      "original_title": "Four Weddings and a Funeral",
+      "overview": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+      "popularity": 10.6993,
+      "poster_path": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "release_date": "1994-03-09",
+      "title": "Four Weddings and a Funeral",
+      "video": false,
+      "vote_average": 6.768,
+      "vote_count": 2769
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jZkkch6yrP1tVVfEU2uqwej9rBM.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 10184,
+      "original_language": "en",
+      "original_title": "He's Just Not That Into You",
+      "overview": "Have you ever sat by the phone wondering why he said he would call, but didn't, or you can't figure out why she doesn't want to sleep with you anymore, or why your relationship just isn't going to the next level... they're just not that into you. Gigi just wants a man who says he'll call—and does—while Alex advises her to stop waiting by the phone. Beth wants a proposal after years of a committed relationship with her boyfriend, Neil, who sees nothing  wrong with the status quo. Janine's not sure if she can trust her husband, Ben, who can't quite trust himself around Anna. Anna can't decide between the sexy married guy, or her straightforward, no-sparks standby, Conor, who can't get over the fact that he can't have her. And Mary, who's found an entire network of loving, supportive men, just needs to find one who's straight.",
+      "popularity": 10.8429,
+      "poster_path": "/jip2ap24Y6JxEgzVRyNqyYssnyR.jpg",
+      "release_date": "2009-02-06",
+      "title": "He's Just Not That Into You",
+      "video": false,
+      "vote_average": 6.604,
+      "vote_count": 3811
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sXTftIripSAR8SDujy9apZpSO9K.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1371610,
+      "original_language": "es",
+      "original_title": "Desmontando a Lucía",
+      "overview": "Lucía is arrested while driving her boyfriend Héctor's car at 200 km/h, dazed and bloody. She was sharing a weekend at the beach with him and Elena, her best friend. Now they are both missing and Lucía only remembers a “little” argument that ended with a bottle broken on Héctor’s head, but that’s all. This complicates Simon’s life. A private investigator? No. , thank you. Simon prefers to consider himself a simple “judicial expert”. When his partner Oliver, a lawyer with financial problems due to gambling, asks him to investigate Lucía and the disappearances, Simon does not know that he is about to take the Expertise on another level. Obsessed with Bogart's film noir, Simón will go beyond all limits when he falls in love with Lucía, the amnesiac suspect in the murder he is investigating.",
+      "popularity": 10.6618,
+      "poster_path": "/3zWj356Tr4SyWdgnZ0qGYc6m5v7.jpg",
+      "release_date": "2024-11-08",
+      "title": "Desmontando a Lucía",
+      "video": false,
+      "vote_average": 5.25,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zFsB4MB4BwVYE5tqXe9sYdCH3Vr.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 988078,
+      "original_language": "es",
+      "original_title": "A través del mar",
+      "overview": "After a year of long-distance, Raquel and Ares reunite on a steamy beach trip. Faced with fresh flirtations and insecurities, will their love prevail?",
+      "popularity": 9.9265,
+      "poster_path": "/6GyzbZf1MsXfrDWTnNXrzwr6G9q.jpg",
+      "release_date": "2023-06-23",
+      "title": "Through My Window: Across the Sea",
+      "video": false,
+      "vote_average": 6.578,
+      "vote_count": 893
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 318846,
+      "original_language": "en",
+      "original_title": "The Big Short",
+      "overview": "The men who made millions from a global economic meltdown.",
+      "popularity": 12.3266,
+      "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "release_date": "2015-12-11",
+      "title": "The Big Short",
+      "video": false,
+      "vote_average": 7.355,
+      "vote_count": 9214
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 9390,
+      "original_language": "en",
+      "original_title": "Jerry Maguire",
+      "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+      "popularity": 9.9392,
+      "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "release_date": "1996-12-13",
+      "title": "Jerry Maguire",
+      "video": false,
+      "vote_average": 6.965,
+      "vote_count": 3386
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9g8UsxDTkzlVyjBJBRJT3zDceTC.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 376660,
+      "original_language": "en",
+      "original_title": "The Edge of Seventeen",
+      "overview": "Two high school girls are best friends until one dates the other's older brother, who is totally his sister's nemesis.",
+      "popularity": 9.4281,
+      "poster_path": "/1LyFay8CGf8mhPRDrMe0ljWw9GK.jpg",
+      "release_date": "2016-11-18",
+      "title": "The Edge of Seventeen",
+      "video": false,
+      "vote_average": 7.16,
+      "vote_count": 4087
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fq5r99Uwr0TEG1yc903LgPNNA9k.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        18,
+        14,
+        16
+      ],
+      "id": 36728,
+      "original_language": "ja",
+      "original_title": "劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者",
+      "overview": "Ninjas with bloodline limits begin disappearing in all the countries and blame points toward the fire nation. By Tsunade's order, Kakashi is sacrificed to prevent an all out war. After inheriting charms left by Kakashi, Naruto fights through friends and foes to prevent his death while changing the minds of those who've inherited the will of fire.",
+      "popularity": 10.237,
+      "poster_path": "/pZzdFmztwmg0FUOVCMa7vReHhQN.jpg",
+      "release_date": "2009-08-01",
+      "title": "Naruto Shippuden the Movie: The Will of Fire",
+      "video": false,
+      "vote_average": 7.305,
+      "vote_count": 476
+    }
+  ],
+  1624,
+  32472,
+  5,
+  [
+    {
+      "adult": false,
+      "backdrop_path": "/naV4PO7ftzNThYKGX44F8vRY2z3.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 41733,
+      "original_language": "en",
+      "original_title": "Due Date",
+      "overview": "Peter Highman must scramble across the US in five days to be present for the birth of his first child. He gets off to a bad start when his wallet and luggage are stolen, and put on the 'no-fly' list. Peter embarks on a terrifying journey when he accepts a ride from an actor.",
+      "popularity": 9.6673,
+      "poster_path": "/sBxWS09pOOyXZ0dcnqfqqCAQGan.jpg",
+      "release_date": "2010-11-03",
+      "title": "Due Date",
+      "video": false,
+      "vote_average": 6.381,
+      "vote_count": 5493
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14,
+        27
+      ],
+      "id": 616747,
+      "original_language": "en",
+      "original_title": "Haunted Mansion",
+      "overview": "A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
+      "popularity": 9.1365,
+      "poster_path": "/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+      "release_date": "2023-07-26",
+      "title": "Haunted Mansion",
+      "video": false,
+      "vote_average": 6.48,
+      "vote_count": 1095
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jTab4cf4X1dJJVS4F8UOGuesvPd.jpg",
+      "genre_ids": [
+        18,
+        35,
+        80
+      ],
+      "id": 540901,
+      "original_language": "en",
+      "original_title": "Hustlers",
+      "overview": "A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.",
+      "popularity": 9.8401,
+      "poster_path": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "release_date": "2019-09-12",
+      "title": "Hustlers",
+      "video": false,
+      "vote_average": 6.475,
+      "vote_count": 2974
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vSd89kiENYeFa6mPHzsM5BgliPm.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 4032,
+      "original_language": "en",
+      "original_title": "My Girl",
+      "overview": "Vada Sultenfuss is obsessed with death. Her mother is dead, and her father runs a funeral parlor. She is also in love with her English teacher, and joins a poetry class over the summer just to impress him. Thomas J., her best friend, is \"allergic to everything\", and sticks with Vada despite her hangups. When Vada's father hires Shelly, and begins to fall for her, things take a turn to the worse...",
+      "popularity": 9.039,
+      "poster_path": "/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+      "release_date": "1991-11-27",
+      "title": "My Girl",
+      "video": false,
+      "vote_average": 7.395,
+      "vote_count": 2132
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+      "genre_ids": [
+        80,
+        35,
+        18,
+        36
+      ],
+      "id": 487558,
+      "original_language": "en",
+      "original_title": "BlacKkKlansman",
+      "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+      "popularity": 11.1185,
+      "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "release_date": "2018-08-09",
+      "title": "BlacKkKlansman",
+      "video": false,
+      "vote_average": 7.499,
+      "vote_count": 7654
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQObbnj0TY2Q1c55w78m1AN6VNX.jpg",
+      "genre_ids": [
+        28,
+        80,
+        37,
+        35,
+        18
+      ],
+      "id": 52629,
+      "original_language": "es",
+      "original_title": "El Infierno",
+      "overview": "After being deported back to Mexico, a man has no choice but to join the vicious drug cartel that has corrupted his hometown in order to survive.",
+      "popularity": 9.7297,
+      "poster_path": "/vry7NyLM6I0fL53H2KxCX4uAz5H.jpg",
+      "release_date": "2010-09-03",
+      "title": "El Infierno",
+      "video": false,
+      "vote_average": 7.889,
+      "vote_count": 701
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4fza1QWpGAoxReiEsnvdFBeMyfX.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 286687,
+      "original_language": "ko",
+      "original_title": "화려한 외출",
+      "overview": "Korea's most popular song writer Hee-soo runs into a nineteen-year-old boy in the elevator. Hee-soo is inspired by a new song watching him shake at her figure. She starts to tell him about women under the excuse that she's teaching him music. They fall for each other but things get complicated when her life teacher, Joon-ho who taught her about life and music comes back.",
+      "popularity": 9.6404,
+      "poster_path": "/xw1ygSZtjJLD0UkspIQghV7yqE4.jpg",
+      "release_date": "2013-12-05",
+      "title": "Love Lesson",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f2GzOCWzTFSskx9dapZiOTbrWwI.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 74643,
+      "original_language": "fr",
+      "original_title": "The Artist",
+      "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+      "popularity": 10.1761,
+      "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+      "release_date": "2011-10-12",
+      "title": "The Artist",
+      "video": false,
+      "vote_average": 7.455,
+      "vote_count": 3308
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zvmsyAMr3cVDdIu7UvDLSmRXlF.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 22705,
+      "original_language": "it",
+      "original_title": "Tra(sgre)dire",
+      "overview": "While scouting out apartments in London for her Venetian boyfriend, Carla rents an apartment overlooking the Thames. There, she meets the lesbian hyper-horny real estate agent Moira.",
+      "popularity": 10.0405,
+      "poster_path": "/7gqcEgJfTltbLo76nZTl8umgM1Y.jpg",
+      "release_date": "2000-01-28",
+      "title": "Cheeky",
+      "video": false,
+      "vote_average": 5.668,
+      "vote_count": 265
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 9428,
+      "original_language": "en",
+      "original_title": "The Royal Tenenbaums",
+      "overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+      "popularity": 9.3356,
+      "poster_path": "/syaECBy6irxSgeF0m5ltGPNTWXL.jpg",
+      "release_date": "2001-10-05",
+      "title": "The Royal Tenenbaums",
+      "video": false,
+      "vote_average": 7.469,
+      "vote_count": 4647
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 705861,
+      "original_language": "en",
+      "original_title": "Hustle",
+      "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+      "popularity": 10.4357,
+      "poster_path": "/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+      "release_date": "2022-06-03",
+      "title": "Hustle",
+      "video": false,
+      "vote_average": 7.74,
+      "vote_count": 2611
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dAeubkAjzTCoP3VFFxu0Btm4mFp.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 1127767,
+      "original_language": "en",
+      "original_title": "Riff Raff",
+      "overview": "A retired hitman's life is turned upside down when his ex-wife and son arrive unannounced during the holidays because they are on the run from his former mob associates.",
+      "popularity": 8.7218,
+      "poster_path": "/xPSur71bxvFVdQ6RdKv0yaVKT2n.jpg",
+      "release_date": "2025-02-27",
+      "title": "Riff Raff",
+      "video": false,
+      "vote_average": 5.797,
+      "vote_count": 32
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vRSCUoQhY5mweRa1PouUh0nuEp4.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 9870,
+      "original_language": "en",
+      "original_title": "Forgetting Sarah Marshall",
+      "overview": "When actress Sarah Marshall dumps aspiring musician Peter Bretter for rock star Aldous Snow, Peter's world comes crashing down. His best friend Brian suggests that Peter should get away from everything and to fly off to Hawaii to escape all his problems. After arriving in Hawaii and meeting the beautiful receptionist Rachel Jansen, Peter is shocked to see not only Aldous in Hawaii, but also Sarah.",
+      "popularity": 9.9149,
+      "poster_path": "/d4elOzyhNWVlxpG7BwigrumkFTe.jpg",
+      "release_date": "2008-04-17",
+      "title": "Forgetting Sarah Marshall",
+      "video": false,
+      "vote_average": 6.501,
+      "vote_count": 3448
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zejzB0K2a47v5KOFzOaZQK9MvA4.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 542178,
+      "original_language": "en",
+      "original_title": "The French Dispatch",
+      "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+      "popularity": 10.4487,
+      "poster_path": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "release_date": "2021-10-21",
+      "title": "The French Dispatch",
+      "video": false,
+      "vote_average": 7.031,
+      "vote_count": 2686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1429743,
+      "original_language": "th",
+      "original_title": "แก๊งหิมะเดือด",
+      "overview": "Driven by her personal agenda, a teacher at a juvenile detention center convinces a crew of teenage misfits to enter an snow sculpting contest in Japan.",
+      "popularity": 9.8361,
+      "poster_path": "/i7cDPuT59TuV6hjxcrPkQONkd5Q.jpg",
+      "release_date": "2025-04-10",
+      "title": "Frozen Hot Boys",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qclL4zkea2cu7O0i6QE3X5b4nbc.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 912520,
+      "original_language": "fr",
+      "original_title": "Simple comme Sylvain",
+      "overview": "Sophia is a philosophy professor in Montreal and has lived as a couple with Xavier for 10 years. Sylvain is a carpenter in the Laurentians and must renovate their country house. When Sophia meets Sylvain for the first time, it’s love at first sight. Opposites attract, but can it last?",
+      "popularity": 8.3397,
+      "poster_path": "/u4IbLxbb1p9X9pMAUn4ddJztO60.jpg",
+      "release_date": "2023-09-22",
+      "title": "The Nature of Love",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 176
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 639,
+      "original_language": "en",
+      "original_title": "When Harry Met Sally...",
+      "overview": "During their travel from Chicago to New York, Harry and Sally debate whether or not sex ruins a friendship between a man and a woman. Eleven years later, and they're still no closer to finding the answer.",
+      "popularity": 10.0904,
+      "poster_path": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "release_date": "1989-07-21",
+      "title": "When Harry Met Sally...",
+      "video": false,
+      "vote_average": 7.402,
+      "vote_count": 4205
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k1X6LX4JOlvxOrpJuLrYZfFiWVs.jpg",
+      "genre_ids": [
+        9648,
+        35,
+        18
+      ],
+      "id": 664469,
+      "original_language": "en",
+      "original_title": "Amsterdam",
+      "overview": "In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in American history.",
+      "popularity": 9.1354,
+      "poster_path": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+      "release_date": "2022-09-27",
+      "title": "Amsterdam",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 1597
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8p9RbvvwLt089zESwk8etzs44Ts.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 76494,
+      "original_language": "en",
+      "original_title": "What to Expect When You're Expecting",
+      "overview": "Challenges of impending parenthood turn the lives of five couples upside down. Two celebrities are unprepared for the surprise demands of pregnancy; hormones wreak havoc on a baby-crazy author, while her husband tries not to be outdone by his father, who's expecting twins with his young trophy wife; a photographer's husband isn't sure about his wife's adoption plans; a one-time hook-up results in a surprise pregnancy for rival food-truck owners.",
+      "popularity": 9.63,
+      "poster_path": "/51kg6CdfwwrBjDDFhT44TwoAZMr.jpg",
+      "release_date": "2012-05-17",
+      "title": "What to Expect When You're Expecting",
+      "video": false,
+      "vote_average": 5.998,
+      "vote_count": 1803
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f1azMRlp6YOLHf2PkzukyGPcpnX.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 718032,
+      "original_language": "en",
+      "original_title": "Licorice Pizza",
+      "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+      "popularity": 10.2236,
+      "poster_path": "/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+      "release_date": "2021-11-26",
+      "title": "Licorice Pizza",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2346
+    }
+  ],
+  1624,
+  32472
+]
